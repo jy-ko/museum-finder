@@ -1,24 +1,4 @@
-# README
+A simple Ruby on Rails application providing an endpoint which takes a GPS latitude and longitude and spits out the names of museums around that location grouped by their postcode as JSON.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+MAPBOX
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
